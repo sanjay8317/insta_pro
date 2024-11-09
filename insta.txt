@@ -1,4 +1,5 @@
 signup
 username 
 password
-new security up
+email
+sign in
